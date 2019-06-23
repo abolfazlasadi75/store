@@ -1,0 +1,10 @@
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\Store.Models.dll.config
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\Store.Models.dll
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\Store.Models.pdb
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\EntityFramework.dll
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\EntityFramework.xml
+D:\Projects\MyCms\Store\Store.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\MyCms\Store\Store.Models\obj\Debug\Store.Models.csprojResolveAssemblyReference.cache
+D:\Projects\MyCms\Store\Store.Models\obj\Debug\Store.Models.dll
+D:\Projects\MyCms\Store\Store.Models\obj\Debug\Store.Models.pdb
